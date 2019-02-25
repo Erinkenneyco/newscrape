@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Erinkenneyco/newscrape/issues"
   },
-  "homepage": "https://github.com/Erinkenneyco/newscrape#readme"
+  "homepage": "https://github.com/Erinkenneyco/newscrape#readme",
+  "dependencies": {
+    "node": "^11.10.0"
+  }
 }
