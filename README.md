@@ -16,4 +16,4 @@ express: builds server-side routes and functions
 
 express-handlebars: a powerful front-end builder without requiring multiple html pages
 
- Run this app on Heroku [here] (https://powerful-caverns-47259.herokuapp.com/)
+ Run this app on Heroku here (https://powerful-caverns-47259.herokuapp.com/)
